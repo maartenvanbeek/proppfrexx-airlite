@@ -8,4 +8,4 @@ Current Configs:
 * Airlite 1: with 3 DJ players, 1 cartwall and 3 standby players
 * Airlite 2: With 2 DJ players, no cartwall and 8 standby players
 
-IMPORTANT! Please check the readmes in the sub folders and back-up your settings before you start!
+IMPORTANT! Please check the README files in the sub folders and backup your settings before you start!
